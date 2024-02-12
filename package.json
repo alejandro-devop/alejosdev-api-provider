@@ -1,5 +1,5 @@
 {
-  "name": "@alejosdev/session-provider",
+  "name": "@alejosdev/api-provider",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -11,7 +11,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alejandro-devop/alejosdev-session-provider.git"
+    "url": "git+https://github.com/alejandro-devop/alejosdev-cache-provider.git"
   },
   "scripts": {
     "build": "rollup -c",
