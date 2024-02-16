@@ -1,6 +1,3 @@
-export declare const useSimpleHook: () => [
-    number,
-    () => void
-];
-declare const myCoolModule: () => void;
-export default myCoolModule;
+export { default } from './ApiContext';
+export * from './hooks';
+export * from './types';
